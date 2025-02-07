@@ -1,4 +1,4 @@
-﻿# Edwin Soto Arregoitia, Adrian Alejandro Treviño Bautista,Sofia Flores Cisneros 
+
 import-module -name ModuloT 
 clear-host 
 function get-menu{
